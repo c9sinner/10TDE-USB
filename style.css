@@ -4,6 +4,7 @@ h1{
 	text-align: center;
 	font-family: headingfont;
 	font-size: 75px;
+	cursor: pointer
 }
 h2{
 	color: rgb(255, 255, 255);
@@ -105,6 +106,14 @@ section {
 }
 .careerpaths{
 	background-image: linear-gradient(-320deg, 
+	#520040, 
+	rgb(19, 20, 19), 
+	rgb(19, 20, 19),
+	rgb(0, 53, 57)	
+	);
+}
+.musicsection{
+	background-image: linear-gradient(-200deg, 
 	#520040, 
 	rgb(19, 20, 19), 
 	rgb(19, 20, 19),
